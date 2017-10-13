@@ -1,0 +1,25 @@
+{
+    "name": "build-webp",
+    "version": "1.0.0",
+    "description": "build webpack frame for anything",
+    "main": "index.js",
+    "scripts": {
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xuanGetit/build-webp.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/xuanGetit/build-webp/issues"
+    },
+    "homepage": "https://github.com/xuanGetit/build-webp#readme",
+    "dependencies": {
+        "lodash": "^4.17.4"
+    },
+    "devDependencies": {
+        "webpack": "^3.7.1"
+    }
+}
